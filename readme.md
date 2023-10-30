@@ -13,3 +13,5 @@ _Make sure you have an adblocker to go along with it. :)_
 - Bypass AdBlock Detection: for getting rid of the "Please disable adblock" banner on other websites except for YouTube.
 - Adblock Must Go On: an alternative to the latter.
 - Block Adblock Blockers: Blocks blockers of adblock blockers. 
+
+_Yes the icon.png is random, I am not a designer_
