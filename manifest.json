@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Anti-Anti-Adblock-Detector",
+    "version": "1.0",
+    "description": "Removes the new disable Adblock banner.",
+    "permissions": ["activeTab", "tabs"],
+    "action": {
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "content_scripts": [
+        {
+          "matches": ["*://www.youtube.com/*"],
+          "js": ["content.js"],
+          "run_at": "document_end"
+        }
+      ],
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
