@@ -5,7 +5,6 @@
 - Click "Load Unpacked" and select the folder containing the files.
 - Play :)
 
-_Make sure you have an adblocker to go along with it. :)_
 ---
 
 ## Other Useful Extensions
@@ -14,4 +13,3 @@ _Make sure you have an adblocker to go along with it. :)_
 - Adblock Must Go On: an alternative to the latter.
 - Block Adblock Blockers: Blocks blockers of adblock blockers. 
 
-_Yes the icon.png is random, I am not a designer_
