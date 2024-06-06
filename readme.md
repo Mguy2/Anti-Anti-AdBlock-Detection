@@ -13,3 +13,4 @@
 - Adblock Must Go On: an alternative to the latter.
 - Block Adblock Blockers: Blocks blockers of adblock blockers. 
 
+Currently depriciated
